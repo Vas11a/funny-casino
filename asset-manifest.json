@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/funny-casino/static/css/main.75f75f1c.css",
+    "main.js": "/funny-casino/static/js/main.812e518f.js",
+    "static/media/disk.png": "/funny-casino/static/media/disk.897323464f97f98f152c.png",
+    "index.html": "/funny-casino/index.html",
+    "main.75f75f1c.css.map": "/funny-casino/static/css/main.75f75f1c.css.map",
+    "main.812e518f.js.map": "/funny-casino/static/js/main.812e518f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75f75f1c.css",
+    "static/js/main.812e518f.js"
+  ]
+}
